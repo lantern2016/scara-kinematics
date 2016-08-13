@@ -1,0 +1,25 @@
+{
+  "name": "scara-kinematics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerouxb/scara-kinematics.git"
+  },
+  "author": "Le Roux Bodenstein <lerouxb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "paper": "paperjs/paper.js"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^1.12.12"
+  }
+}
